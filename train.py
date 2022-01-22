@@ -3,7 +3,7 @@ import json
 
 from trainers import trainers
 
-
+# test
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True)
